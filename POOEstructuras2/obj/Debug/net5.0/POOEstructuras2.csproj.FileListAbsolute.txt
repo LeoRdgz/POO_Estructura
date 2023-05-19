@@ -1,0 +1,16 @@
+C:\Users\Upqroo\Desktop\POOEstructuras2\bin\Debug\net5.0\POOEstructuras2.exe
+C:\Users\Upqroo\Desktop\POOEstructuras2\bin\Debug\net5.0\POOEstructuras2.deps.json
+C:\Users\Upqroo\Desktop\POOEstructuras2\bin\Debug\net5.0\POOEstructuras2.runtimeconfig.json
+C:\Users\Upqroo\Desktop\POOEstructuras2\bin\Debug\net5.0\POOEstructuras2.runtimeconfig.dev.json
+C:\Users\Upqroo\Desktop\POOEstructuras2\bin\Debug\net5.0\POOEstructuras2.dll
+C:\Users\Upqroo\Desktop\POOEstructuras2\bin\Debug\net5.0\POOEstructuras2.pdb
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\POOEstructuras2.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\POOEstructuras2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\POOEstructuras2.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\POOEstructuras2.AssemblyInfo.cs
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\POOEstructuras2.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\POOEstructuras2.dll
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\refint\POOEstructuras2.dll
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\POOEstructuras2.pdb
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\POOEstructuras2.genruntimeconfig.cache
+C:\Users\Upqroo\Desktop\POOEstructuras2\obj\Debug\net5.0\ref\POOEstructuras2.dll

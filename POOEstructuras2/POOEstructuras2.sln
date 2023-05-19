@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOEstructuras2", "POOEstructuras2.csproj", "{A158D247-E70B-4F0E-9445-F25622154E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A158D247-E70B-4F0E-9445-F25622154E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A158D247-E70B-4F0E-9445-F25622154E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A158D247-E70B-4F0E-9445-F25622154E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A158D247-E70B-4F0E-9445-F25622154E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD119539-ABD8-4269-A349-9180C3A62FD3}
+	EndGlobalSection
+EndGlobal
